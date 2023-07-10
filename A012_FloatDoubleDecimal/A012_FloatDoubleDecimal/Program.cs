@@ -20,6 +20,8 @@ namespace A012_FloatDoubleDecimal
             Console.WriteLine("float : {0} ~ {1}", float.MinValue, float.MaxValue);
             Console.WriteLine("double : {0} ~ {1}", double.MinValue, double.MaxValue);
             Console.WriteLine("decimal : {0} ~ {1}", decimal.MinValue, decimal.MaxValue);
+            Console.WriteLine("Local");
+
 
         }
     }
