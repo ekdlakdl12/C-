@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A022_BitwiseOperators", "A022_BitwiseOperators\A022_BitwiseOperators.csproj", "{899CCAB0-4A44-4367-AC6F-CF01E886FC19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899CCAB0-4A44-4367-AC6F-CF01E886FC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899CCAB0-4A44-4367-AC6F-CF01E886FC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899CCAB0-4A44-4367-AC6F-CF01E886FC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899CCAB0-4A44-4367-AC6F-CF01E886FC19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8166721-AA1B-40CD-A6E8-58D719A7146C}
+	EndGlobalSection
+EndGlobal
