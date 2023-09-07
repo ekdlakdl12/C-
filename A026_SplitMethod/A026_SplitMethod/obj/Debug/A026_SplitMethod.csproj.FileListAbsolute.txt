@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A026_SplitMethod\A026_SplitMethod\bin\Debug\A026_SplitMethod.exe.config
+C:\Users\rkffl\source\repos\A026_SplitMethod\A026_SplitMethod\bin\Debug\A026_SplitMethod.exe
+C:\Users\rkffl\source\repos\A026_SplitMethod\A026_SplitMethod\bin\Debug\A026_SplitMethod.pdb
+C:\Users\rkffl\source\repos\A026_SplitMethod\A026_SplitMethod\obj\Debug\A026_SplitMethod.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A026_SplitMethod\A026_SplitMethod\obj\Debug\A026_SplitMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A026_SplitMethod\A026_SplitMethod\obj\Debug\A026_SplitMethod.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A026_SplitMethod\A026_SplitMethod\obj\Debug\A026_SplitMethod.exe
+C:\Users\rkffl\source\repos\A026_SplitMethod\A026_SplitMethod\obj\Debug\A026_SplitMethod.pdb
