@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A028_StringContains\A028_StringContains\bin\Debug\A028_StringContains.exe.config
+C:\Users\rkffl\source\repos\A028_StringContains\A028_StringContains\bin\Debug\A028_StringContains.exe
+C:\Users\rkffl\source\repos\A028_StringContains\A028_StringContains\bin\Debug\A028_StringContains.pdb
+C:\Users\rkffl\source\repos\A028_StringContains\A028_StringContains\obj\Debug\A028_StringContains.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A028_StringContains\A028_StringContains\obj\Debug\A028_StringContains.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A028_StringContains\A028_StringContains\obj\Debug\A028_StringContains.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A028_StringContains\A028_StringContains\obj\Debug\A028_StringContains.exe
+C:\Users\rkffl\source\repos\A028_StringContains\A028_StringContains\obj\Debug\A028_StringContains.pdb
