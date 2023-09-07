@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A027_StringConcat\A027_StringConcat\bin\Debug\A027_StringConcat.exe.config
+C:\Users\rkffl\source\repos\A027_StringConcat\A027_StringConcat\bin\Debug\A027_StringConcat.exe
+C:\Users\rkffl\source\repos\A027_StringConcat\A027_StringConcat\bin\Debug\A027_StringConcat.pdb
+C:\Users\rkffl\source\repos\A027_StringConcat\A027_StringConcat\obj\Debug\A027_StringConcat.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A027_StringConcat\A027_StringConcat\obj\Debug\A027_StringConcat.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A027_StringConcat\A027_StringConcat\obj\Debug\A027_StringConcat.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A027_StringConcat\A027_StringConcat\obj\Debug\A027_StringConcat.exe
+C:\Users\rkffl\source\repos\A027_StringConcat\A027_StringConcat\obj\Debug\A027_StringConcat.pdb
