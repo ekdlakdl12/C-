@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A030_GruopSeparator\A030_GruopSeparator\bin\Debug\A030_GruopSeparator.exe.config
+C:\Users\rkffl\source\repos\A030_GruopSeparator\A030_GruopSeparator\bin\Debug\A030_GruopSeparator.exe
+C:\Users\rkffl\source\repos\A030_GruopSeparator\A030_GruopSeparator\bin\Debug\A030_GruopSeparator.pdb
+C:\Users\rkffl\source\repos\A030_GruopSeparator\A030_GruopSeparator\obj\Debug\A030_GruopSeparator.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A030_GruopSeparator\A030_GruopSeparator\obj\Debug\A030_GruopSeparator.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A030_GruopSeparator\A030_GruopSeparator\obj\Debug\A030_GruopSeparator.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A030_GruopSeparator\A030_GruopSeparator\obj\Debug\A030_GruopSeparator.exe
+C:\Users\rkffl\source\repos\A030_GruopSeparator\A030_GruopSeparator\obj\Debug\A030_GruopSeparator.pdb
