@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A025_StringMethods\A025_StringMethods\bin\Debug\A025_StringMethods.exe.config
+C:\Users\rkffl\source\repos\A025_StringMethods\A025_StringMethods\bin\Debug\A025_StringMethods.exe
+C:\Users\rkffl\source\repos\A025_StringMethods\A025_StringMethods\bin\Debug\A025_StringMethods.pdb
+C:\Users\rkffl\source\repos\A025_StringMethods\A025_StringMethods\obj\Debug\A025_StringMethods.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A025_StringMethods\A025_StringMethods\obj\Debug\A025_StringMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A025_StringMethods\A025_StringMethods\obj\Debug\A025_StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A025_StringMethods\A025_StringMethods\obj\Debug\A025_StringMethods.exe
+C:\Users\rkffl\source\repos\A025_StringMethods\A025_StringMethods\obj\Debug\A025_StringMethods.pdb

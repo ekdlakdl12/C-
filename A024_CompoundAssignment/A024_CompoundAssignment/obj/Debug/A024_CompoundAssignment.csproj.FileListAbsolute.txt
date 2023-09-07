@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A024_CompoundAssignment\A024_CompoundAssignment\bin\Debug\A024_CompoundAssignment.exe.config
+C:\Users\rkffl\source\repos\A024_CompoundAssignment\A024_CompoundAssignment\bin\Debug\A024_CompoundAssignment.exe
+C:\Users\rkffl\source\repos\A024_CompoundAssignment\A024_CompoundAssignment\bin\Debug\A024_CompoundAssignment.pdb
+C:\Users\rkffl\source\repos\A024_CompoundAssignment\A024_CompoundAssignment\obj\Debug\A024_CompoundAssignment.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A024_CompoundAssignment\A024_CompoundAssignment\obj\Debug\A024_CompoundAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A024_CompoundAssignment\A024_CompoundAssignment\obj\Debug\A024_CompoundAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A024_CompoundAssignment\A024_CompoundAssignment\obj\Debug\A024_CompoundAssignment.exe
+C:\Users\rkffl\source\repos\A024_CompoundAssignment\A024_CompoundAssignment\obj\Debug\A024_CompoundAssignment.pdb
