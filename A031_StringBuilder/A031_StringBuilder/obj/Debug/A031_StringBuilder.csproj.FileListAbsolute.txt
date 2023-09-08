@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A031_StringBuilder\A031_StringBuilder\bin\Debug\A031_StringBuilder.exe.config
+C:\Users\rkffl\source\repos\A031_StringBuilder\A031_StringBuilder\bin\Debug\A031_StringBuilder.exe
+C:\Users\rkffl\source\repos\A031_StringBuilder\A031_StringBuilder\bin\Debug\A031_StringBuilder.pdb
+C:\Users\rkffl\source\repos\A031_StringBuilder\A031_StringBuilder\obj\Debug\A031_StringBuilder.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A031_StringBuilder\A031_StringBuilder\obj\Debug\A031_StringBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A031_StringBuilder\A031_StringBuilder\obj\Debug\A031_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A031_StringBuilder\A031_StringBuilder\obj\Debug\A031_StringBuilder.exe
+C:\Users\rkffl\source\repos\A031_StringBuilder\A031_StringBuilder\obj\Debug\A031_StringBuilder.pdb
