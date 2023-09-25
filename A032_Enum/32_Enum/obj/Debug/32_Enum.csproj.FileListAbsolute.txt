@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\32_Enum\32_Enum\bin\Debug\32_Enum.exe.config
+C:\Users\rkffl\source\repos\32_Enum\32_Enum\bin\Debug\32_Enum.exe
+C:\Users\rkffl\source\repos\32_Enum\32_Enum\bin\Debug\32_Enum.pdb
+C:\Users\rkffl\source\repos\32_Enum\32_Enum\obj\Debug\32_Enum.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\32_Enum\32_Enum\obj\Debug\32_Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\32_Enum\32_Enum\obj\Debug\32_Enum.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\32_Enum\32_Enum\obj\Debug\32_Enum.exe
+C:\Users\rkffl\source\repos\32_Enum\32_Enum\obj\Debug\32_Enum.pdb

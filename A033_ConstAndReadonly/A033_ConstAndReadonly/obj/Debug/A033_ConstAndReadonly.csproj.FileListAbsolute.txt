@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A033_ConstAndReadonly\A033_ConstAndReadonly\bin\Debug\A033_ConstAndReadonly.exe.config
+C:\Users\rkffl\source\repos\A033_ConstAndReadonly\A033_ConstAndReadonly\bin\Debug\A033_ConstAndReadonly.exe
+C:\Users\rkffl\source\repos\A033_ConstAndReadonly\A033_ConstAndReadonly\bin\Debug\A033_ConstAndReadonly.pdb
+C:\Users\rkffl\source\repos\A033_ConstAndReadonly\A033_ConstAndReadonly\obj\Debug\A033_ConstAndReadonly.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A033_ConstAndReadonly\A033_ConstAndReadonly\obj\Debug\A033_ConstAndReadonly.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A033_ConstAndReadonly\A033_ConstAndReadonly\obj\Debug\A033_ConstAndReadonly.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A033_ConstAndReadonly\A033_ConstAndReadonly\obj\Debug\A033_ConstAndReadonly.exe
+C:\Users\rkffl\source\repos\A033_ConstAndReadonly\A033_ConstAndReadonly\obj\Debug\A033_ConstAndReadonly.pdb
