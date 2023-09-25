@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A035_PassingArrayAndObject\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A035_PassingArrayAndObject\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A035_PassingArrayAndObject\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A035_PassingArrayAndObject\A035_PassingArrayAndObject\bin\Debug\A035_PassingArrayAndObject.exe.config
+C:\Users\rkffl\source\repos\A035_PassingArrayAndObject\A035_PassingArrayAndObject\bin\Debug\A035_PassingArrayAndObject.exe
+C:\Users\rkffl\source\repos\A035_PassingArrayAndObject\A035_PassingArrayAndObject\bin\Debug\A035_PassingArrayAndObject.pdb
+C:\Users\rkffl\source\repos\A035_PassingArrayAndObject\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.exe
+C:\Users\rkffl\source\repos\A035_PassingArrayAndObject\A035_PassingArrayAndObject\obj\Debug\A035_PassingArrayAndObject.pdb
