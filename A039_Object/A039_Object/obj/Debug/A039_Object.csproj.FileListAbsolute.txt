@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A039_Object\A039_Object\bin\Debug\A039_Object.exe.config
+C:\Users\rkffl\source\repos\A039_Object\A039_Object\bin\Debug\A039_Object.exe
+C:\Users\rkffl\source\repos\A039_Object\A039_Object\bin\Debug\A039_Object.pdb
+C:\Users\rkffl\source\repos\A039_Object\A039_Object\obj\Debug\A039_Object.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A039_Object\A039_Object\obj\Debug\A039_Object.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A039_Object\A039_Object\obj\Debug\A039_Object.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A039_Object\A039_Object\obj\Debug\A039_Object.exe
+C:\Users\rkffl\source\repos\A039_Object\A039_Object\obj\Debug\A039_Object.pdb
