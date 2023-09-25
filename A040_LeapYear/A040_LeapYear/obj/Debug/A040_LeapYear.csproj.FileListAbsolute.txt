@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A040_LeapYear\A040_LeapYear\bin\Debug\A040_LeapYear.exe.config
+C:\Users\rkffl\source\repos\A040_LeapYear\A040_LeapYear\bin\Debug\A040_LeapYear.exe
+C:\Users\rkffl\source\repos\A040_LeapYear\A040_LeapYear\bin\Debug\A040_LeapYear.pdb
+C:\Users\rkffl\source\repos\A040_LeapYear\A040_LeapYear\obj\Debug\A040_LeapYear.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A040_LeapYear\A040_LeapYear\obj\Debug\A040_LeapYear.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A040_LeapYear\A040_LeapYear\obj\Debug\A040_LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A040_LeapYear\A040_LeapYear\obj\Debug\A040_LeapYear.exe
+C:\Users\rkffl\source\repos\A040_LeapYear\A040_LeapYear\obj\Debug\A040_LeapYear.pdb
