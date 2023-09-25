@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A034_ValueAndReference\A034_ValueAndReference\bin\Debug\A034_ValueAndReference.exe.config
+C:\Users\rkffl\source\repos\A034_ValueAndReference\A034_ValueAndReference\bin\Debug\A034_ValueAndReference.exe
+C:\Users\rkffl\source\repos\A034_ValueAndReference\A034_ValueAndReference\bin\Debug\A034_ValueAndReference.pdb
+C:\Users\rkffl\source\repos\A034_ValueAndReference\A034_ValueAndReference\obj\Debug\A034_ValueAndReference.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A034_ValueAndReference\A034_ValueAndReference\obj\Debug\A034_ValueAndReference.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A034_ValueAndReference\A034_ValueAndReference\obj\Debug\A034_ValueAndReference.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A034_ValueAndReference\A034_ValueAndReference\obj\Debug\A034_ValueAndReference.exe
+C:\Users\rkffl\source\repos\A034_ValueAndReference\A034_ValueAndReference\obj\Debug\A034_ValueAndReference.pdb
