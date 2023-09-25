@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A37_Deafult\A37_Deafult\bin\Debug\A37_Deafult.exe.config
+C:\Users\rkffl\source\repos\A37_Deafult\A37_Deafult\bin\Debug\A37_Deafult.exe
+C:\Users\rkffl\source\repos\A37_Deafult\A37_Deafult\bin\Debug\A37_Deafult.pdb
+C:\Users\rkffl\source\repos\A37_Deafult\A37_Deafult\obj\Debug\A37_Deafult.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A37_Deafult\A37_Deafult\obj\Debug\A37_Deafult.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A37_Deafult\A37_Deafult\obj\Debug\A37_Deafult.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A37_Deafult\A37_Deafult\obj\Debug\A37_Deafult.exe
+C:\Users\rkffl\source\repos\A37_Deafult\A37_Deafult\obj\Debug\A37_Deafult.pdb
