@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A041_Grading\A041_Grading\bin\Debug\A041_Grading.exe.config
+C:\Users\rkffl\source\repos\A041_Grading\A041_Grading\bin\Debug\A041_Grading.exe
+C:\Users\rkffl\source\repos\A041_Grading\A041_Grading\bin\Debug\A041_Grading.pdb
+C:\Users\rkffl\source\repos\A041_Grading\A041_Grading\obj\Debug\A041_Grading.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A041_Grading\A041_Grading\obj\Debug\A041_Grading.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A041_Grading\A041_Grading\obj\Debug\A041_Grading.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A041_Grading\A041_Grading\obj\Debug\A041_Grading.exe
+C:\Users\rkffl\source\repos\A041_Grading\A041_Grading\obj\Debug\A041_Grading.pdb
