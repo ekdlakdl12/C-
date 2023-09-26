@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A042_BMI\A042_BMI\bin\Debug\A042_BMI.exe.config
+C:\Users\rkffl\source\repos\A042_BMI\A042_BMI\bin\Debug\A042_BMI.exe
+C:\Users\rkffl\source\repos\A042_BMI\A042_BMI\bin\Debug\A042_BMI.pdb
+C:\Users\rkffl\source\repos\A042_BMI\A042_BMI\obj\Debug\A042_BMI.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A042_BMI\A042_BMI\obj\Debug\A042_BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A042_BMI\A042_BMI\obj\Debug\A042_BMI.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A042_BMI\A042_BMI\obj\Debug\A042_BMI.exe
+C:\Users\rkffl\source\repos\A042_BMI\A042_BMI\obj\Debug\A042_BMI.pdb
