@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A043_Loop\A043_Loop\bin\Debug\A043_Loop.exe.config
+C:\Users\rkffl\source\repos\A043_Loop\A043_Loop\bin\Debug\A043_Loop.exe
+C:\Users\rkffl\source\repos\A043_Loop\A043_Loop\bin\Debug\A043_Loop.pdb
+C:\Users\rkffl\source\repos\A043_Loop\A043_Loop\obj\Debug\A043_Loop.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A043_Loop\A043_Loop\obj\Debug\A043_Loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A043_Loop\A043_Loop\obj\Debug\A043_Loop.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A043_Loop\A043_Loop\obj\Debug\A043_Loop.exe
+C:\Users\rkffl\source\repos\A043_Loop\A043_Loop\obj\Debug\A043_Loop.pdb
