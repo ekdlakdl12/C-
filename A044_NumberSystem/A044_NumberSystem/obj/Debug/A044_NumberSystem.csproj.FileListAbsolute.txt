@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A044_NumberSystem\A044_NumberSystem\bin\Debug\A044_NumberSystem.exe.config
+C:\Users\rkffl\source\repos\A044_NumberSystem\A044_NumberSystem\bin\Debug\A044_NumberSystem.exe
+C:\Users\rkffl\source\repos\A044_NumberSystem\A044_NumberSystem\bin\Debug\A044_NumberSystem.pdb
+C:\Users\rkffl\source\repos\A044_NumberSystem\A044_NumberSystem\obj\Debug\A044_NumberSystem.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A044_NumberSystem\A044_NumberSystem\obj\Debug\A044_NumberSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A044_NumberSystem\A044_NumberSystem\obj\Debug\A044_NumberSystem.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A044_NumberSystem\A044_NumberSystem\obj\Debug\A044_NumberSystem.exe
+C:\Users\rkffl\source\repos\A044_NumberSystem\A044_NumberSystem\obj\Debug\A044_NumberSystem.pdb
