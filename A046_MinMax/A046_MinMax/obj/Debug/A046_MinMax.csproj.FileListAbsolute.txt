@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A046_MinMax\A046_MinMax\bin\Debug\A046_MinMax.exe.config
+C:\Users\rkffl\source\repos\A046_MinMax\A046_MinMax\bin\Debug\A046_MinMax.exe
+C:\Users\rkffl\source\repos\A046_MinMax\A046_MinMax\bin\Debug\A046_MinMax.pdb
+C:\Users\rkffl\source\repos\A046_MinMax\A046_MinMax\obj\Debug\A046_MinMax.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A046_MinMax\A046_MinMax\obj\Debug\A046_MinMax.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A046_MinMax\A046_MinMax\obj\Debug\A046_MinMax.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A046_MinMax\A046_MinMax\obj\Debug\A046_MinMax.exe
+C:\Users\rkffl\source\repos\A046_MinMax\A046_MinMax\obj\Debug\A046_MinMax.pdb
