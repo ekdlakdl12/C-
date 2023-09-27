@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A045_Multiplication\A045_Multiplication\bin\Debug\A045_Multiplication.exe.config
+C:\Users\rkffl\source\repos\A045_Multiplication\A045_Multiplication\bin\Debug\A045_Multiplication.exe
+C:\Users\rkffl\source\repos\A045_Multiplication\A045_Multiplication\bin\Debug\A045_Multiplication.pdb
+C:\Users\rkffl\source\repos\A045_Multiplication\A045_Multiplication\obj\Debug\A045_Multiplication.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A045_Multiplication\A045_Multiplication\obj\Debug\A045_Multiplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A045_Multiplication\A045_Multiplication\obj\Debug\A045_Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A045_Multiplication\A045_Multiplication\obj\Debug\A045_Multiplication.exe
+C:\Users\rkffl\source\repos\A045_Multiplication\A045_Multiplication\obj\Debug\A045_Multiplication.pdb
