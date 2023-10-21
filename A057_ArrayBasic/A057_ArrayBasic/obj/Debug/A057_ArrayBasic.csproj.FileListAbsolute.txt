@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A057_ArrayBasic\A057_ArrayBasic\bin\Debug\A057_ArrayBasic.exe.config
+C:\Users\rkffl\source\repos\A057_ArrayBasic\A057_ArrayBasic\bin\Debug\A057_ArrayBasic.exe
+C:\Users\rkffl\source\repos\A057_ArrayBasic\A057_ArrayBasic\bin\Debug\A057_ArrayBasic.pdb
+C:\Users\rkffl\source\repos\A057_ArrayBasic\A057_ArrayBasic\obj\Debug\A057_ArrayBasic.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A057_ArrayBasic\A057_ArrayBasic\obj\Debug\A057_ArrayBasic.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A057_ArrayBasic\A057_ArrayBasic\obj\Debug\A057_ArrayBasic.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A057_ArrayBasic\A057_ArrayBasic\obj\Debug\A057_ArrayBasic.exe
+C:\Users\rkffl\source\repos\A057_ArrayBasic\A057_ArrayBasic\obj\Debug\A057_ArrayBasic.pdb
