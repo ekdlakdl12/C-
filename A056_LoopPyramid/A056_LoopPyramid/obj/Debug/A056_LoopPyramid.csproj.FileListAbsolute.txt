@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A056_LoopPyramid\A056_LoopPyramid\bin\Debug\A056_LoopPyramid.exe.config
+C:\Users\rkffl\source\repos\A056_LoopPyramid\A056_LoopPyramid\bin\Debug\A056_LoopPyramid.exe
+C:\Users\rkffl\source\repos\A056_LoopPyramid\A056_LoopPyramid\bin\Debug\A056_LoopPyramid.pdb
+C:\Users\rkffl\source\repos\A056_LoopPyramid\A056_LoopPyramid\obj\Debug\A056_LoopPyramid.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A056_LoopPyramid\A056_LoopPyramid\obj\Debug\A056_LoopPyramid.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A056_LoopPyramid\A056_LoopPyramid\obj\Debug\A056_LoopPyramid.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A056_LoopPyramid\A056_LoopPyramid\obj\Debug\A056_LoopPyramid.exe
+C:\Users\rkffl\source\repos\A056_LoopPyramid\A056_LoopPyramid\obj\Debug\A056_LoopPyramid.pdb
