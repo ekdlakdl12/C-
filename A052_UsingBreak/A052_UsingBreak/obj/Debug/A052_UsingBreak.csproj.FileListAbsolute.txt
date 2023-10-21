@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A052_UsingBreak\A052_UsingBreak\bin\Debug\A052_UsingBreak.exe.config
+C:\Users\rkffl\source\repos\A052_UsingBreak\A052_UsingBreak\bin\Debug\A052_UsingBreak.exe
+C:\Users\rkffl\source\repos\A052_UsingBreak\A052_UsingBreak\bin\Debug\A052_UsingBreak.pdb
+C:\Users\rkffl\source\repos\A052_UsingBreak\A052_UsingBreak\obj\Debug\A052_UsingBreak.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A052_UsingBreak\A052_UsingBreak\obj\Debug\A052_UsingBreak.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A052_UsingBreak\A052_UsingBreak\obj\Debug\A052_UsingBreak.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A052_UsingBreak\A052_UsingBreak\obj\Debug\A052_UsingBreak.exe
+C:\Users\rkffl\source\repos\A052_UsingBreak\A052_UsingBreak\obj\Debug\A052_UsingBreak.pdb
