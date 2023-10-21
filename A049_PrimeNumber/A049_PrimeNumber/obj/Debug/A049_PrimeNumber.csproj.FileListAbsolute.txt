@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A049_PrimeNumber\A049_PrimeNumber\bin\Debug\A049_PrimeNumber.exe.config
+C:\Users\rkffl\source\repos\A049_PrimeNumber\A049_PrimeNumber\bin\Debug\A049_PrimeNumber.exe
+C:\Users\rkffl\source\repos\A049_PrimeNumber\A049_PrimeNumber\bin\Debug\A049_PrimeNumber.pdb
+C:\Users\rkffl\source\repos\A049_PrimeNumber\A049_PrimeNumber\obj\Debug\A049_PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A049_PrimeNumber\A049_PrimeNumber\obj\Debug\A049_PrimeNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A049_PrimeNumber\A049_PrimeNumber\obj\Debug\A049_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A049_PrimeNumber\A049_PrimeNumber\obj\Debug\A049_PrimeNumber.exe
+C:\Users\rkffl\source\repos\A049_PrimeNumber\A049_PrimeNumber\obj\Debug\A049_PrimeNumber.pdb
