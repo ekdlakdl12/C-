@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A054_TimeTable\A054_TimeTable\bin\Debug\A054_TimeTable.exe.config
+C:\Users\rkffl\source\repos\A054_TimeTable\A054_TimeTable\bin\Debug\A054_TimeTable.exe
+C:\Users\rkffl\source\repos\A054_TimeTable\A054_TimeTable\bin\Debug\A054_TimeTable.pdb
+C:\Users\rkffl\source\repos\A054_TimeTable\A054_TimeTable\obj\Debug\A054_TimeTable.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A054_TimeTable\A054_TimeTable\obj\Debug\A054_TimeTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A054_TimeTable\A054_TimeTable\obj\Debug\A054_TimeTable.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A054_TimeTable\A054_TimeTable\obj\Debug\A054_TimeTable.exe
+C:\Users\rkffl\source\repos\A054_TimeTable\A054_TimeTable\obj\Debug\A054_TimeTable.pdb
