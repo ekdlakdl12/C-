@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A050_FindingPI\A050_FindingPI\obj\Debug\A050_FindingPI.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A050_FindingPI\A050_FindingPI\obj\Debug\A050_FindingPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A050_FindingPI\A050_FindingPI\obj\Debug\A050_FindingPI.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A050_FindingPI\A050_FindingPI\bin\Debug\A050_FindingPI.exe.config
+C:\Users\rkffl\source\repos\A050_FindingPI\A050_FindingPI\bin\Debug\A050_FindingPI.exe
+C:\Users\rkffl\source\repos\A050_FindingPI\A050_FindingPI\bin\Debug\A050_FindingPI.pdb
+C:\Users\rkffl\source\repos\A050_FindingPI\A050_FindingPI\obj\Debug\A050_FindingPI.exe
+C:\Users\rkffl\source\repos\A050_FindingPI\A050_FindingPI\obj\Debug\A050_FindingPI.pdb
