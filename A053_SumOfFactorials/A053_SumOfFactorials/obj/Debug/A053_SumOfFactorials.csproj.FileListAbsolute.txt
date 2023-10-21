@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A053_SumOfFactorials\A053_SumOfFactorials\bin\Debug\A053_SumOfFactorials.exe.config
+C:\Users\rkffl\source\repos\A053_SumOfFactorials\A053_SumOfFactorials\bin\Debug\A053_SumOfFactorials.exe
+C:\Users\rkffl\source\repos\A053_SumOfFactorials\A053_SumOfFactorials\bin\Debug\A053_SumOfFactorials.pdb
+C:\Users\rkffl\source\repos\A053_SumOfFactorials\A053_SumOfFactorials\obj\Debug\A053_SumOfFactorials.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A053_SumOfFactorials\A053_SumOfFactorials\obj\Debug\A053_SumOfFactorials.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A053_SumOfFactorials\A053_SumOfFactorials\obj\Debug\A053_SumOfFactorials.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A053_SumOfFactorials\A053_SumOfFactorials\obj\Debug\A053_SumOfFactorials.exe
+C:\Users\rkffl\source\repos\A053_SumOfFactorials\A053_SumOfFactorials\obj\Debug\A053_SumOfFactorials.pdb
