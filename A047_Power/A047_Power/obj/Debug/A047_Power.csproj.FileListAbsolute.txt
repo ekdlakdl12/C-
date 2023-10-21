@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A047_Power\A047_Power\bin\Debug\A047_Power.exe.config
+C:\Users\rkffl\source\repos\A047_Power\A047_Power\bin\Debug\A047_Power.exe
+C:\Users\rkffl\source\repos\A047_Power\A047_Power\bin\Debug\A047_Power.pdb
+C:\Users\rkffl\source\repos\A047_Power\A047_Power\obj\Debug\A047_Power.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A047_Power\A047_Power\obj\Debug\A047_Power.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A047_Power\A047_Power\obj\Debug\A047_Power.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A047_Power\A047_Power\obj\Debug\A047_Power.exe
+C:\Users\rkffl\source\repos\A047_Power\A047_Power\obj\Debug\A047_Power.pdb
