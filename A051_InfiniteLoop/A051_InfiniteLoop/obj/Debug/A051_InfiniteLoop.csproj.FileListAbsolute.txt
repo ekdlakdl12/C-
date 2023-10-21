@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A051_InfiniteLoop\A051_InfiniteLoop\bin\Debug\A051_InfiniteLoop.exe.config
+C:\Users\rkffl\source\repos\A051_InfiniteLoop\A051_InfiniteLoop\bin\Debug\A051_InfiniteLoop.exe
+C:\Users\rkffl\source\repos\A051_InfiniteLoop\A051_InfiniteLoop\bin\Debug\A051_InfiniteLoop.pdb
+C:\Users\rkffl\source\repos\A051_InfiniteLoop\A051_InfiniteLoop\obj\Debug\A051_InfiniteLoop.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A051_InfiniteLoop\A051_InfiniteLoop\obj\Debug\A051_InfiniteLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A051_InfiniteLoop\A051_InfiniteLoop\obj\Debug\A051_InfiniteLoop.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A051_InfiniteLoop\A051_InfiniteLoop\obj\Debug\A051_InfiniteLoop.exe
+C:\Users\rkffl\source\repos\A051_InfiniteLoop\A051_InfiniteLoop\obj\Debug\A051_InfiniteLoop.pdb
