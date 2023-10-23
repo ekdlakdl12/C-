@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A061_RandomClass\A061_RandomClass\bin\Debug\A061_RandomClass.exe.config
+C:\Users\rkffl\source\repos\A061_RandomClass\A061_RandomClass\bin\Debug\A061_RandomClass.exe
+C:\Users\rkffl\source\repos\A061_RandomClass\A061_RandomClass\bin\Debug\A061_RandomClass.pdb
+C:\Users\rkffl\source\repos\A061_RandomClass\A061_RandomClass\obj\Debug\A061_RandomClass.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A061_RandomClass\A061_RandomClass\obj\Debug\A061_RandomClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A061_RandomClass\A061_RandomClass\obj\Debug\A061_RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A061_RandomClass\A061_RandomClass\obj\Debug\A061_RandomClass.exe
+C:\Users\rkffl\source\repos\A061_RandomClass\A061_RandomClass\obj\Debug\A061_RandomClass.pdb
