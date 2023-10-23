@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A063_BinarySearch\A063_BinarySearch\bin\Debug\A063_BinarySearch.exe.config
+C:\Users\rkffl\source\repos\A063_BinarySearch\A063_BinarySearch\bin\Debug\A063_BinarySearch.exe
+C:\Users\rkffl\source\repos\A063_BinarySearch\A063_BinarySearch\bin\Debug\A063_BinarySearch.pdb
+C:\Users\rkffl\source\repos\A063_BinarySearch\A063_BinarySearch\obj\Debug\A063_BinarySearch.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A063_BinarySearch\A063_BinarySearch\obj\Debug\A063_BinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A063_BinarySearch\A063_BinarySearch\obj\Debug\A063_BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A063_BinarySearch\A063_BinarySearch\obj\Debug\A063_BinarySearch.exe
+C:\Users\rkffl\source\repos\A063_BinarySearch\A063_BinarySearch\obj\Debug\A063_BinarySearch.pdb
