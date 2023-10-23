@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A060_ArraySorting\A060_ArraySorting\bin\Debug\A060_ArraySorting.exe.config
+C:\Users\rkffl\source\repos\A060_ArraySorting\A060_ArraySorting\bin\Debug\A060_ArraySorting.exe
+C:\Users\rkffl\source\repos\A060_ArraySorting\A060_ArraySorting\bin\Debug\A060_ArraySorting.pdb
+C:\Users\rkffl\source\repos\A060_ArraySorting\A060_ArraySorting\obj\Debug\A060_ArraySorting.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A060_ArraySorting\A060_ArraySorting\obj\Debug\A060_ArraySorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A060_ArraySorting\A060_ArraySorting\obj\Debug\A060_ArraySorting.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A060_ArraySorting\A060_ArraySorting\obj\Debug\A060_ArraySorting.exe
+C:\Users\rkffl\source\repos\A060_ArraySorting\A060_ArraySorting\obj\Debug\A060_ArraySorting.pdb
