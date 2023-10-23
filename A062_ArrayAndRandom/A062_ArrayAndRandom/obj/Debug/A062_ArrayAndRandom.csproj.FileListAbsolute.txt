@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A062_ArrayAndRandom\A062_ArrayAndRandom\bin\Debug\A062_ArrayAndRandom.exe.config
+C:\Users\rkffl\source\repos\A062_ArrayAndRandom\A062_ArrayAndRandom\bin\Debug\A062_ArrayAndRandom.exe
+C:\Users\rkffl\source\repos\A062_ArrayAndRandom\A062_ArrayAndRandom\bin\Debug\A062_ArrayAndRandom.pdb
+C:\Users\rkffl\source\repos\A062_ArrayAndRandom\A062_ArrayAndRandom\obj\Debug\A062_ArrayAndRandom.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A062_ArrayAndRandom\A062_ArrayAndRandom\obj\Debug\A062_ArrayAndRandom.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A062_ArrayAndRandom\A062_ArrayAndRandom\obj\Debug\A062_ArrayAndRandom.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A062_ArrayAndRandom\A062_ArrayAndRandom\obj\Debug\A062_ArrayAndRandom.exe
+C:\Users\rkffl\source\repos\A062_ArrayAndRandom\A062_ArrayAndRandom\obj\Debug\A062_ArrayAndRandom.pdb
