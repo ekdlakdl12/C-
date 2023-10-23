@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A059_MultiDimensionArray\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.exe.config
+C:\Users\rkffl\source\repos\A059_MultiDimensionArray\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.exe
+C:\Users\rkffl\source\repos\A059_MultiDimensionArray\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.pdb
+C:\Users\rkffl\source\repos\A059_MultiDimensionArray\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A059_MultiDimensionArray\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A059_MultiDimensionArray\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A059_MultiDimensionArray\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.exe
+C:\Users\rkffl\source\repos\A059_MultiDimensionArray\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.pdb
