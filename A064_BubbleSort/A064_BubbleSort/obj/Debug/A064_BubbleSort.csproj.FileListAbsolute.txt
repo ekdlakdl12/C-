@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A064_BubbleSort\A064_BubbleSort\bin\Debug\A064_BubbleSort.exe.config
+C:\Users\rkffl\source\repos\A064_BubbleSort\A064_BubbleSort\bin\Debug\A064_BubbleSort.exe
+C:\Users\rkffl\source\repos\A064_BubbleSort\A064_BubbleSort\bin\Debug\A064_BubbleSort.pdb
+C:\Users\rkffl\source\repos\A064_BubbleSort\A064_BubbleSort\obj\Debug\A064_BubbleSort.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A064_BubbleSort\A064_BubbleSort\obj\Debug\A064_BubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A064_BubbleSort\A064_BubbleSort\obj\Debug\A064_BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A064_BubbleSort\A064_BubbleSort\obj\Debug\A064_BubbleSort.exe
+C:\Users\rkffl\source\repos\A064_BubbleSort\A064_BubbleSort\obj\Debug\A064_BubbleSort.pdb
