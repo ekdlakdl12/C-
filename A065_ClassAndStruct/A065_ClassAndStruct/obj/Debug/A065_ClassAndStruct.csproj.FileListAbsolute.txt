@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A065_ClassAndStruct\A065_ClassAndStruct\bin\Debug\A065_ClassAndStruct.exe.config
+C:\Users\rkffl\source\repos\A065_ClassAndStruct\A065_ClassAndStruct\bin\Debug\A065_ClassAndStruct.exe
+C:\Users\rkffl\source\repos\A065_ClassAndStruct\A065_ClassAndStruct\bin\Debug\A065_ClassAndStruct.pdb
+C:\Users\rkffl\source\repos\A065_ClassAndStruct\A065_ClassAndStruct\obj\Debug\A065_ClassAndStruct.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A065_ClassAndStruct\A065_ClassAndStruct\obj\Debug\A065_ClassAndStruct.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A065_ClassAndStruct\A065_ClassAndStruct\obj\Debug\A065_ClassAndStruct.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A065_ClassAndStruct\A065_ClassAndStruct\obj\Debug\A065_ClassAndStruct.exe
+C:\Users\rkffl\source\repos\A065_ClassAndStruct\A065_ClassAndStruct\obj\Debug\A065_ClassAndStruct.pdb
