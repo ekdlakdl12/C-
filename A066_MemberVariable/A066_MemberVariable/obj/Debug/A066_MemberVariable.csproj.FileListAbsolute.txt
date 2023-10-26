@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A066_MemberVariable\A066_MemberVariable\bin\Debug\A066_MemberVariable.exe.config
+C:\Users\rkffl\source\repos\A066_MemberVariable\A066_MemberVariable\bin\Debug\A066_MemberVariable.exe
+C:\Users\rkffl\source\repos\A066_MemberVariable\A066_MemberVariable\bin\Debug\A066_MemberVariable.pdb
+C:\Users\rkffl\source\repos\A066_MemberVariable\A066_MemberVariable\obj\Debug\A066_MemberVariable.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A066_MemberVariable\A066_MemberVariable\obj\Debug\A066_MemberVariable.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A066_MemberVariable\A066_MemberVariable\obj\Debug\A066_MemberVariable.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A066_MemberVariable\A066_MemberVariable\obj\Debug\A066_MemberVariable.exe
+C:\Users\rkffl\source\repos\A066_MemberVariable\A066_MemberVariable\obj\Debug\A066_MemberVariable.pdb
