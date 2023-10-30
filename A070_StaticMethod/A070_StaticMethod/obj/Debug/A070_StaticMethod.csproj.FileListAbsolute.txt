@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A070_StaticMethod\A070_StaticMethod\obj\Debug\A070_StaticMethod.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A070_StaticMethod\A070_StaticMethod\obj\Debug\A070_StaticMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A070_StaticMethod\A070_StaticMethod\obj\Debug\A070_StaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A070_StaticMethod\A070_StaticMethod\bin\Debug\A070_StaticMethod.exe.config
+C:\Users\rkffl\source\repos\A070_StaticMethod\A070_StaticMethod\bin\Debug\A070_StaticMethod.exe
+C:\Users\rkffl\source\repos\A070_StaticMethod\A070_StaticMethod\bin\Debug\A070_StaticMethod.pdb
+C:\Users\rkffl\source\repos\A070_StaticMethod\A070_StaticMethod\obj\Debug\A070_StaticMethod.exe
+C:\Users\rkffl\source\repos\A070_StaticMethod\A070_StaticMethod\obj\Debug\A070_StaticMethod.pdb
