@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A071_IsPrime\A071_IsPrime\bin\Debug\A071_IsPrime.exe.config
+C:\Users\rkffl\source\repos\A071_IsPrime\A071_IsPrime\bin\Debug\A071_IsPrime.exe
+C:\Users\rkffl\source\repos\A071_IsPrime\A071_IsPrime\bin\Debug\A071_IsPrime.pdb
+C:\Users\rkffl\source\repos\A071_IsPrime\A071_IsPrime\obj\Debug\A071_IsPrime.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A071_IsPrime\A071_IsPrime\obj\Debug\A071_IsPrime.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A071_IsPrime\A071_IsPrime\obj\Debug\A071_IsPrime.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A071_IsPrime\A071_IsPrime\obj\Debug\A071_IsPrime.exe
+C:\Users\rkffl\source\repos\A071_IsPrime\A071_IsPrime\obj\Debug\A071_IsPrime.pdb
