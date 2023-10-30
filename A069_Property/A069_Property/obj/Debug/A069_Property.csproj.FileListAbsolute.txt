@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A069_Property\A069_Property\bin\Debug\A069_Property.exe.config
+C:\Users\rkffl\source\repos\A069_Property\A069_Property\bin\Debug\A069_Property.exe
+C:\Users\rkffl\source\repos\A069_Property\A069_Property\bin\Debug\A069_Property.pdb
+C:\Users\rkffl\source\repos\A069_Property\A069_Property\obj\Debug\A069_Property.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A069_Property\A069_Property\obj\Debug\A069_Property.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A069_Property\A069_Property\obj\Debug\A069_Property.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A069_Property\A069_Property\obj\Debug\A069_Property.exe
+C:\Users\rkffl\source\repos\A069_Property\A069_Property\obj\Debug\A069_Property.pdb
