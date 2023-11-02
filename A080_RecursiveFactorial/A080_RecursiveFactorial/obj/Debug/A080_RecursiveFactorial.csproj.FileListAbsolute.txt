@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A080_RecursiveFactorial\A080_RecursiveFactorial\bin\Debug\A080_RecursiveFactorial.exe.config
+C:\Users\rkffl\source\repos\A080_RecursiveFactorial\A080_RecursiveFactorial\bin\Debug\A080_RecursiveFactorial.exe
+C:\Users\rkffl\source\repos\A080_RecursiveFactorial\A080_RecursiveFactorial\bin\Debug\A080_RecursiveFactorial.pdb
+C:\Users\rkffl\source\repos\A080_RecursiveFactorial\A080_RecursiveFactorial\obj\Debug\A080_RecursiveFactorial.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A080_RecursiveFactorial\A080_RecursiveFactorial\obj\Debug\A080_RecursiveFactorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A080_RecursiveFactorial\A080_RecursiveFactorial\obj\Debug\A080_RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A080_RecursiveFactorial\A080_RecursiveFactorial\obj\Debug\A080_RecursiveFactorial.exe
+C:\Users\rkffl\source\repos\A080_RecursiveFactorial\A080_RecursiveFactorial\obj\Debug\A080_RecursiveFactorial.pdb
