@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A079_RecursivePower\A079_RecursivePower\bin\Debug\A079_RecursivePower.exe.config
+C:\Users\rkffl\source\repos\A079_RecursivePower\A079_RecursivePower\bin\Debug\A079_RecursivePower.exe
+C:\Users\rkffl\source\repos\A079_RecursivePower\A079_RecursivePower\bin\Debug\A079_RecursivePower.pdb
+C:\Users\rkffl\source\repos\A079_RecursivePower\A079_RecursivePower\obj\Debug\A079_RecursivePower.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A079_RecursivePower\A079_RecursivePower\obj\Debug\A079_RecursivePower.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A079_RecursivePower\A079_RecursivePower\obj\Debug\A079_RecursivePower.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A079_RecursivePower\A079_RecursivePower\obj\Debug\A079_RecursivePower.exe
+C:\Users\rkffl\source\repos\A079_RecursivePower\A079_RecursivePower\obj\Debug\A079_RecursivePower.pdb
