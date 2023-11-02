@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A074_PyramidMethod\A074_PyramidMethod\bin\Debug\A074_PyramidMethod.exe.config
+C:\Users\rkffl\source\repos\A074_PyramidMethod\A074_PyramidMethod\bin\Debug\A074_PyramidMethod.exe
+C:\Users\rkffl\source\repos\A074_PyramidMethod\A074_PyramidMethod\bin\Debug\A074_PyramidMethod.pdb
+C:\Users\rkffl\source\repos\A074_PyramidMethod\A074_PyramidMethod\obj\Debug\A074_PyramidMethod.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A074_PyramidMethod\A074_PyramidMethod\obj\Debug\A074_PyramidMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A074_PyramidMethod\A074_PyramidMethod\obj\Debug\A074_PyramidMethod.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A074_PyramidMethod\A074_PyramidMethod\obj\Debug\A074_PyramidMethod.exe
+C:\Users\rkffl\source\repos\A074_PyramidMethod\A074_PyramidMethod\obj\Debug\A074_PyramidMethod.pdb
