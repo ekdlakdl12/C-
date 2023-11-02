@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A073_AgeCalculator\A073_AgeCalculator\bin\Debug\A073_AgeCalculator.exe.config
+C:\Users\rkffl\source\repos\A073_AgeCalculator\A073_AgeCalculator\bin\Debug\A073_AgeCalculator.exe
+C:\Users\rkffl\source\repos\A073_AgeCalculator\A073_AgeCalculator\bin\Debug\A073_AgeCalculator.pdb
+C:\Users\rkffl\source\repos\A073_AgeCalculator\A073_AgeCalculator\obj\Debug\A073_AgeCalculator.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A073_AgeCalculator\A073_AgeCalculator\obj\Debug\A073_AgeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A073_AgeCalculator\A073_AgeCalculator\obj\Debug\A073_AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A073_AgeCalculator\A073_AgeCalculator\obj\Debug\A073_AgeCalculator.exe
+C:\Users\rkffl\source\repos\A073_AgeCalculator\A073_AgeCalculator\obj\Debug\A073_AgeCalculator.pdb
