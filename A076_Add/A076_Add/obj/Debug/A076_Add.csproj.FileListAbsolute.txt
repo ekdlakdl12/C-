@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A076_Add\A076_Add\bin\Debug\A076_Add.exe.config
+C:\Users\rkffl\source\repos\A076_Add\A076_Add\bin\Debug\A076_Add.exe
+C:\Users\rkffl\source\repos\A076_Add\A076_Add\bin\Debug\A076_Add.pdb
+C:\Users\rkffl\source\repos\A076_Add\A076_Add\obj\Debug\A076_Add.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A076_Add\A076_Add\obj\Debug\A076_Add.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A076_Add\A076_Add\obj\Debug\A076_Add.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A076_Add\A076_Add\obj\Debug\A076_Add.exe
+C:\Users\rkffl\source\repos\A076_Add\A076_Add\obj\Debug\A076_Add.pdb
