@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A075_Factorial\A075_Factorial\bin\Debug\A075_Factorial.exe.config
+C:\Users\rkffl\source\repos\A075_Factorial\A075_Factorial\bin\Debug\A075_Factorial.exe
+C:\Users\rkffl\source\repos\A075_Factorial\A075_Factorial\bin\Debug\A075_Factorial.pdb
+C:\Users\rkffl\source\repos\A075_Factorial\A075_Factorial\obj\Debug\A075_Factorial.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A075_Factorial\A075_Factorial\obj\Debug\A075_Factorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A075_Factorial\A075_Factorial\obj\Debug\A075_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A075_Factorial\A075_Factorial\obj\Debug\A075_Factorial.exe
+C:\Users\rkffl\source\repos\A075_Factorial\A075_Factorial\obj\Debug\A075_Factorial.pdb
