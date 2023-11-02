@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A072_IsLeapYear\A072_IsLeapYear\bin\Debug\A072_IsLeapYear.exe.config
+C:\Users\rkffl\source\repos\A072_IsLeapYear\A072_IsLeapYear\bin\Debug\A072_IsLeapYear.exe
+C:\Users\rkffl\source\repos\A072_IsLeapYear\A072_IsLeapYear\bin\Debug\A072_IsLeapYear.pdb
+C:\Users\rkffl\source\repos\A072_IsLeapYear\A072_IsLeapYear\obj\Debug\A072_IsLeapYear.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A072_IsLeapYear\A072_IsLeapYear\obj\Debug\A072_IsLeapYear.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A072_IsLeapYear\A072_IsLeapYear\obj\Debug\A072_IsLeapYear.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A072_IsLeapYear\A072_IsLeapYear\obj\Debug\A072_IsLeapYear.exe
+C:\Users\rkffl\source\repos\A072_IsLeapYear\A072_IsLeapYear\obj\Debug\A072_IsLeapYear.pdb
