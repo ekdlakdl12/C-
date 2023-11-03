@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A081_RecursiveSumOfReciprocal\A081_RecursiveSumOfReciprocal\bin\Debug\A081_RecursiveSumOfReciprocal.exe.config
+C:\Users\rkffl\source\repos\A081_RecursiveSumOfReciprocal\A081_RecursiveSumOfReciprocal\bin\Debug\A081_RecursiveSumOfReciprocal.exe
+C:\Users\rkffl\source\repos\A081_RecursiveSumOfReciprocal\A081_RecursiveSumOfReciprocal\bin\Debug\A081_RecursiveSumOfReciprocal.pdb
+C:\Users\rkffl\source\repos\A081_RecursiveSumOfReciprocal\A081_RecursiveSumOfReciprocal\obj\Debug\A081_RecursiveSumOfReciprocal.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A081_RecursiveSumOfReciprocal\A081_RecursiveSumOfReciprocal\obj\Debug\A081_RecursiveSumOfReciprocal.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A081_RecursiveSumOfReciprocal\A081_RecursiveSumOfReciprocal\obj\Debug\A081_RecursiveSumOfReciprocal.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A081_RecursiveSumOfReciprocal\A081_RecursiveSumOfReciprocal\obj\Debug\A081_RecursiveSumOfReciprocal.exe
+C:\Users\rkffl\source\repos\A081_RecursiveSumOfReciprocal\A081_RecursiveSumOfReciprocal\obj\Debug\A081_RecursiveSumOfReciprocal.pdb
