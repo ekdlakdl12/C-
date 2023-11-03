@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A082_HanoiTower\A082_HanoiTower\bin\Debug\A082_HanoiTower.exe.config
+C:\Users\rkffl\source\repos\A082_HanoiTower\A082_HanoiTower\bin\Debug\A082_HanoiTower.exe
+C:\Users\rkffl\source\repos\A082_HanoiTower\A082_HanoiTower\bin\Debug\A082_HanoiTower.pdb
+C:\Users\rkffl\source\repos\A082_HanoiTower\A082_HanoiTower\obj\Debug\A082_HanoiTower.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A082_HanoiTower\A082_HanoiTower\obj\Debug\A082_HanoiTower.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A082_HanoiTower\A082_HanoiTower\obj\Debug\A082_HanoiTower.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A082_HanoiTower\A082_HanoiTower\obj\Debug\A082_HanoiTower.exe
+C:\Users\rkffl\source\repos\A082_HanoiTower\A082_HanoiTower\obj\Debug\A082_HanoiTower.pdb
