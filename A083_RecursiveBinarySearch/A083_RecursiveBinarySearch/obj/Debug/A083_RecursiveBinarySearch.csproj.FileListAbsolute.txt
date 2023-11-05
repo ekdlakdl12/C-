@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A083_RecursiveBinarySearch\A083_RecursiveBinarySearch\bin\Debug\A083_RecursiveBinarySearch.exe.config
+C:\Users\rkffl\source\repos\A083_RecursiveBinarySearch\A083_RecursiveBinarySearch\bin\Debug\A083_RecursiveBinarySearch.exe
+C:\Users\rkffl\source\repos\A083_RecursiveBinarySearch\A083_RecursiveBinarySearch\bin\Debug\A083_RecursiveBinarySearch.pdb
+C:\Users\rkffl\source\repos\A083_RecursiveBinarySearch\A083_RecursiveBinarySearch\obj\Debug\A083_RecursiveBinarySearch.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A083_RecursiveBinarySearch\A083_RecursiveBinarySearch\obj\Debug\A083_RecursiveBinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A083_RecursiveBinarySearch\A083_RecursiveBinarySearch\obj\Debug\A083_RecursiveBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A083_RecursiveBinarySearch\A083_RecursiveBinarySearch\obj\Debug\A083_RecursiveBinarySearch.exe
+C:\Users\rkffl\source\repos\A083_RecursiveBinarySearch\A083_RecursiveBinarySearch\obj\Debug\A083_RecursiveBinarySearch.pdb
