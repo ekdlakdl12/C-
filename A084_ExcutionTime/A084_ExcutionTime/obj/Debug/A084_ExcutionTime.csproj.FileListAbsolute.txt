@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A084_ExcutionTime\A084_ExcutionTime\bin\Debug\A084_ExcutionTime.exe.config
+C:\Users\rkffl\source\repos\A084_ExcutionTime\A084_ExcutionTime\bin\Debug\A084_ExcutionTime.exe
+C:\Users\rkffl\source\repos\A084_ExcutionTime\A084_ExcutionTime\bin\Debug\A084_ExcutionTime.pdb
+C:\Users\rkffl\source\repos\A084_ExcutionTime\A084_ExcutionTime\obj\Debug\A084_ExcutionTime.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A084_ExcutionTime\A084_ExcutionTime\obj\Debug\A084_ExcutionTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A084_ExcutionTime\A084_ExcutionTime\obj\Debug\A084_ExcutionTime.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A084_ExcutionTime\A084_ExcutionTime\obj\Debug\A084_ExcutionTime.exe
+C:\Users\rkffl\source\repos\A084_ExcutionTime\A084_ExcutionTime\obj\Debug\A084_ExcutionTime.pdb
