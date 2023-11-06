@@ -5,3 +5,8 @@
 ## 11월 - 중급/A124
 ## 12월 - 활용/A159 / 윈폼, UI, GDI
 ## 선택 - 실무/A200 / 시계,수학함수그래프
+
+
+## 백준 알고리즘
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdlakdl12)](https://solved.ac/ekdlakdl12/)
