@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A090_params\A090_params\bin\Debug\A090_params.exe.config
+C:\Users\rkffl\source\repos\A090_params\A090_params\bin\Debug\A090_params.exe
+C:\Users\rkffl\source\repos\A090_params\A090_params\bin\Debug\A090_params.pdb
+C:\Users\rkffl\source\repos\A090_params\A090_params\obj\Debug\A090_params.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A090_params\A090_params\obj\Debug\A090_params.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A090_params\A090_params\obj\Debug\A090_params.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A090_params\A090_params\obj\Debug\A090_params.exe
+C:\Users\rkffl\source\repos\A090_params\A090_params\obj\Debug\A090_params.pdb
