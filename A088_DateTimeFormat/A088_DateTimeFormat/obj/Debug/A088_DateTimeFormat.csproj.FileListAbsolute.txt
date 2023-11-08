@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A088_DateTimeFormat\A088_DateTimeFormat\bin\Debug\A088_DateTimeFormat.exe.config
+C:\Users\rkffl\source\repos\A088_DateTimeFormat\A088_DateTimeFormat\bin\Debug\A088_DateTimeFormat.exe
+C:\Users\rkffl\source\repos\A088_DateTimeFormat\A088_DateTimeFormat\bin\Debug\A088_DateTimeFormat.pdb
+C:\Users\rkffl\source\repos\A088_DateTimeFormat\A088_DateTimeFormat\obj\Debug\A088_DateTimeFormat.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A088_DateTimeFormat\A088_DateTimeFormat\obj\Debug\A088_DateTimeFormat.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A088_DateTimeFormat\A088_DateTimeFormat\obj\Debug\A088_DateTimeFormat.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A088_DateTimeFormat\A088_DateTimeFormat\obj\Debug\A088_DateTimeFormat.exe
+C:\Users\rkffl\source\repos\A088_DateTimeFormat\A088_DateTimeFormat\obj\Debug\A088_DateTimeFormat.pdb
