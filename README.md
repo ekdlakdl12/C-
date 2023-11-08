@@ -11,5 +11,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdlakdl12)](https://solved.ac/ekdlakdl12/)
 
-###브론즈5_10_31일 시작
+###브론즈5_10_31일 시작  
 ###실버달성_11_08일
