@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A089_MethodArguments\A089_MethodArguments\bin\Debug\A089_MethodArguments.exe.config
+C:\Users\rkffl\source\repos\A089_MethodArguments\A089_MethodArguments\bin\Debug\A089_MethodArguments.exe
+C:\Users\rkffl\source\repos\A089_MethodArguments\A089_MethodArguments\bin\Debug\A089_MethodArguments.pdb
+C:\Users\rkffl\source\repos\A089_MethodArguments\A089_MethodArguments\obj\Debug\A089_MethodArguments.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A089_MethodArguments\A089_MethodArguments\obj\Debug\A089_MethodArguments.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A089_MethodArguments\A089_MethodArguments\obj\Debug\A089_MethodArguments.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A089_MethodArguments\A089_MethodArguments\obj\Debug\A089_MethodArguments.exe
+C:\Users\rkffl\source\repos\A089_MethodArguments\A089_MethodArguments\obj\Debug\A089_MethodArguments.pdb
