@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A087_LifeTimeCalc\A087_LifeTimeCalc\bin\Debug\A087_LifeTimeCalc.exe.config
+C:\Users\rkffl\source\repos\A087_LifeTimeCalc\A087_LifeTimeCalc\bin\Debug\A087_LifeTimeCalc.exe
+C:\Users\rkffl\source\repos\A087_LifeTimeCalc\A087_LifeTimeCalc\bin\Debug\A087_LifeTimeCalc.pdb
+C:\Users\rkffl\source\repos\A087_LifeTimeCalc\A087_LifeTimeCalc\obj\Debug\A087_LifeTimeCalc.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A087_LifeTimeCalc\A087_LifeTimeCalc\obj\Debug\A087_LifeTimeCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A087_LifeTimeCalc\A087_LifeTimeCalc\obj\Debug\A087_LifeTimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A087_LifeTimeCalc\A087_LifeTimeCalc\obj\Debug\A087_LifeTimeCalc.exe
+C:\Users\rkffl\source\repos\A087_LifeTimeCalc\A087_LifeTimeCalc\obj\Debug\A087_LifeTimeCalc.pdb
