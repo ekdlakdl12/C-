@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A086_TimeSpan\A086_TimeSpan\bin\Debug\A086_TimeSpan.exe.config
+C:\Users\rkffl\source\repos\A086_TimeSpan\A086_TimeSpan\bin\Debug\A086_TimeSpan.exe
+C:\Users\rkffl\source\repos\A086_TimeSpan\A086_TimeSpan\bin\Debug\A086_TimeSpan.pdb
+C:\Users\rkffl\source\repos\A086_TimeSpan\A086_TimeSpan\obj\Debug\A086_TimeSpan.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A086_TimeSpan\A086_TimeSpan\obj\Debug\A086_TimeSpan.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A086_TimeSpan\A086_TimeSpan\obj\Debug\A086_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A086_TimeSpan\A086_TimeSpan\obj\Debug\A086_TimeSpan.exe
+C:\Users\rkffl\source\repos\A086_TimeSpan\A086_TimeSpan\obj\Debug\A086_TimeSpan.pdb
