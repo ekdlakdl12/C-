@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A091_OptionalNamedArguments\A091_OptionalNamedArguments\bin\Debug\A091_OptionalNamedArguments.exe.config
+C:\Users\rkffl\source\repos\A091_OptionalNamedArguments\A091_OptionalNamedArguments\bin\Debug\A091_OptionalNamedArguments.exe
+C:\Users\rkffl\source\repos\A091_OptionalNamedArguments\A091_OptionalNamedArguments\bin\Debug\A091_OptionalNamedArguments.pdb
+C:\Users\rkffl\source\repos\A091_OptionalNamedArguments\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A091_OptionalNamedArguments\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A091_OptionalNamedArguments\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A091_OptionalNamedArguments\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.exe
+C:\Users\rkffl\source\repos\A091_OptionalNamedArguments\A091_OptionalNamedArguments\obj\Debug\A091_OptionalNamedArguments.pdb
