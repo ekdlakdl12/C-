@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\A093_GenericMethod\A093_GenericMethod\bin\Debug\A093_GenericMethod.exe.config
+C:\Users\rkffl\source\repos\A093_GenericMethod\A093_GenericMethod\bin\Debug\A093_GenericMethod.exe
+C:\Users\rkffl\source\repos\A093_GenericMethod\A093_GenericMethod\bin\Debug\A093_GenericMethod.pdb
+C:\Users\rkffl\source\repos\A093_GenericMethod\A093_GenericMethod\obj\Debug\A093_GenericMethod.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\A093_GenericMethod\A093_GenericMethod\obj\Debug\A093_GenericMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\A093_GenericMethod\A093_GenericMethod\obj\Debug\A093_GenericMethod.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\A093_GenericMethod\A093_GenericMethod\obj\Debug\A093_GenericMethod.exe
+C:\Users\rkffl\source\repos\A093_GenericMethod\A093_GenericMethod\obj\Debug\A093_GenericMethod.pdb
