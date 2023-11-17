@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A098_StackImplementation\A098_StackImplementation\bin\Debug\A098_StackImplementation.exe.config
+D:\Xamarin_Study\A098_StackImplementation\A098_StackImplementation\bin\Debug\A098_StackImplementation.exe
+D:\Xamarin_Study\A098_StackImplementation\A098_StackImplementation\bin\Debug\A098_StackImplementation.pdb
+D:\Xamarin_Study\A098_StackImplementation\A098_StackImplementation\obj\Debug\A098_StackImplementation.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A098_StackImplementation\A098_StackImplementation\obj\Debug\A098_StackImplementation.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A098_StackImplementation\A098_StackImplementation\obj\Debug\A098_StackImplementation.exe
+D:\Xamarin_Study\A098_StackImplementation\A098_StackImplementation\obj\Debug\A098_StackImplementation.pdb
