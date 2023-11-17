@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A094_GenericClass\A094_GenericClass\bin\Debug\A094_GenericClass.exe.config
+D:\Xamarin_Study\A094_GenericClass\A094_GenericClass\bin\Debug\A094_GenericClass.exe
+D:\Xamarin_Study\A094_GenericClass\A094_GenericClass\bin\Debug\A094_GenericClass.pdb
+D:\Xamarin_Study\A094_GenericClass\A094_GenericClass\obj\Debug\A094_GenericClass.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A094_GenericClass\A094_GenericClass\obj\Debug\A094_GenericClass.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A094_GenericClass\A094_GenericClass\obj\Debug\A094_GenericClass.exe
+D:\Xamarin_Study\A094_GenericClass\A094_GenericClass\obj\Debug\A094_GenericClass.pdb
