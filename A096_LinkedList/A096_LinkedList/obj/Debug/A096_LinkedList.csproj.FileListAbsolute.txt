@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A096_LinkedList\A096_LinkedList\bin\Debug\A096_LinkedList.exe.config
+D:\Xamarin_Study\A096_LinkedList\A096_LinkedList\bin\Debug\A096_LinkedList.exe
+D:\Xamarin_Study\A096_LinkedList\A096_LinkedList\bin\Debug\A096_LinkedList.pdb
+D:\Xamarin_Study\A096_LinkedList\A096_LinkedList\obj\Debug\A096_LinkedList.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A096_LinkedList\A096_LinkedList\obj\Debug\A096_LinkedList.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A096_LinkedList\A096_LinkedList\obj\Debug\A096_LinkedList.exe
+D:\Xamarin_Study\A096_LinkedList\A096_LinkedList\obj\Debug\A096_LinkedList.pdb
