@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A102_ArrayList\A102_ArrayList\bin\Debug\A102_ArrayList.exe.config
+D:\Xamarin_Study\A102_ArrayList\A102_ArrayList\bin\Debug\A102_ArrayList.exe
+D:\Xamarin_Study\A102_ArrayList\A102_ArrayList\bin\Debug\A102_ArrayList.pdb
+D:\Xamarin_Study\A102_ArrayList\A102_ArrayList\obj\Debug\A102_ArrayList.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A102_ArrayList\A102_ArrayList\obj\Debug\A102_ArrayList.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A102_ArrayList\A102_ArrayList\obj\Debug\A102_ArrayList.exe
+D:\Xamarin_Study\A102_ArrayList\A102_ArrayList\obj\Debug\A102_ArrayList.pdb
