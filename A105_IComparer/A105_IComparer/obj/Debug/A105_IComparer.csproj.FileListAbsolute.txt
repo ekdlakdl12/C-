@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A105_IComparer\A105_IComparer\bin\Debug\A105_IComparer.exe.config
+D:\Xamarin_Study\A105_IComparer\A105_IComparer\bin\Debug\A105_IComparer.exe
+D:\Xamarin_Study\A105_IComparer\A105_IComparer\bin\Debug\A105_IComparer.pdb
+D:\Xamarin_Study\A105_IComparer\A105_IComparer\obj\Debug\A105_IComparer.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A105_IComparer\A105_IComparer\obj\Debug\A105_IComparer.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A105_IComparer\A105_IComparer\obj\Debug\A105_IComparer.exe
+D:\Xamarin_Study\A105_IComparer\A105_IComparer\obj\Debug\A105_IComparer.pdb
