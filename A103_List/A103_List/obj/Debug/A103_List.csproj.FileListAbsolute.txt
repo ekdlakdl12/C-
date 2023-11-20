@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A103_List\A103_List\bin\Debug\A103_List.exe.config
+D:\Xamarin_Study\A103_List\A103_List\bin\Debug\A103_List.exe
+D:\Xamarin_Study\A103_List\A103_List\bin\Debug\A103_List.pdb
+D:\Xamarin_Study\A103_List\A103_List\obj\Debug\A103_List.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A103_List\A103_List\obj\Debug\A103_List.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A103_List\A103_List\obj\Debug\A103_List.exe
+D:\Xamarin_Study\A103_List\A103_List\obj\Debug\A103_List.pdb
