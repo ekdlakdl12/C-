@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A104_Alphabetical\A104_Alphabetical\bin\Debug\A104_Alphabetical.exe.config
+D:\Xamarin_Study\A104_Alphabetical\A104_Alphabetical\bin\Debug\A104_Alphabetical.exe
+D:\Xamarin_Study\A104_Alphabetical\A104_Alphabetical\bin\Debug\A104_Alphabetical.pdb
+D:\Xamarin_Study\A104_Alphabetical\A104_Alphabetical\obj\Debug\A104_Alphabetical.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A104_Alphabetical\A104_Alphabetical\obj\Debug\A104_Alphabetical.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A104_Alphabetical\A104_Alphabetical\obj\Debug\A104_Alphabetical.exe
+D:\Xamarin_Study\A104_Alphabetical\A104_Alphabetical\obj\Debug\A104_Alphabetical.pdb
