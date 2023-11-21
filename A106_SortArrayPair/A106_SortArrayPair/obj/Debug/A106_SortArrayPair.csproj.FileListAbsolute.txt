@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A106_SortArrayPair\A106_SortArrayPair\bin\Debug\A106_SortArrayPair.exe.config
+D:\Xamarin_Study\A106_SortArrayPair\A106_SortArrayPair\bin\Debug\A106_SortArrayPair.exe
+D:\Xamarin_Study\A106_SortArrayPair\A106_SortArrayPair\bin\Debug\A106_SortArrayPair.pdb
+D:\Xamarin_Study\A106_SortArrayPair\A106_SortArrayPair\obj\Debug\A106_SortArrayPair.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A106_SortArrayPair\A106_SortArrayPair\obj\Debug\A106_SortArrayPair.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A106_SortArrayPair\A106_SortArrayPair\obj\Debug\A106_SortArrayPair.exe
+D:\Xamarin_Study\A106_SortArrayPair\A106_SortArrayPair\obj\Debug\A106_SortArrayPair.pdb
