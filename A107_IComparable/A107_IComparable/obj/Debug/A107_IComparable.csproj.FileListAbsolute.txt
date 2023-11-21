@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A107_IComparable\A107_IComparable\bin\Debug\A107_IComparable.exe.config
+D:\Xamarin_Study\A107_IComparable\A107_IComparable\bin\Debug\A107_IComparable.exe
+D:\Xamarin_Study\A107_IComparable\A107_IComparable\bin\Debug\A107_IComparable.pdb
+D:\Xamarin_Study\A107_IComparable\A107_IComparable\obj\Debug\A107_IComparable.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A107_IComparable\A107_IComparable\obj\Debug\A107_IComparable.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A107_IComparable\A107_IComparable\obj\Debug\A107_IComparable.exe
+D:\Xamarin_Study\A107_IComparable\A107_IComparable\obj\Debug\A107_IComparable.pdb
