@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A108_Queue\A108_Queue\bin\Debug\A108_Queue.exe.config
+D:\Xamarin_Study\A108_Queue\A108_Queue\bin\Debug\A108_Queue.exe
+D:\Xamarin_Study\A108_Queue\A108_Queue\bin\Debug\A108_Queue.pdb
+D:\Xamarin_Study\A108_Queue\A108_Queue\obj\Debug\A108_Queue.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A108_Queue\A108_Queue\obj\Debug\A108_Queue.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A108_Queue\A108_Queue\obj\Debug\A108_Queue.exe
+D:\Xamarin_Study\A108_Queue\A108_Queue\obj\Debug\A108_Queue.pdb
