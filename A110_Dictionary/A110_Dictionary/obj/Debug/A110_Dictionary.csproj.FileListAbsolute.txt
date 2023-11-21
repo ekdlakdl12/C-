@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A110_Dictionary\A110_Dictionary\bin\Debug\A110_Dictionary.exe.config
+D:\Xamarin_Study\A110_Dictionary\A110_Dictionary\bin\Debug\A110_Dictionary.exe
+D:\Xamarin_Study\A110_Dictionary\A110_Dictionary\bin\Debug\A110_Dictionary.pdb
+D:\Xamarin_Study\A110_Dictionary\A110_Dictionary\obj\Debug\A110_Dictionary.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A110_Dictionary\A110_Dictionary\obj\Debug\A110_Dictionary.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A110_Dictionary\A110_Dictionary\obj\Debug\A110_Dictionary.exe
+D:\Xamarin_Study\A110_Dictionary\A110_Dictionary\obj\Debug\A110_Dictionary.pdb
