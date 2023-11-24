@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A115_FuncAndAction\A115_FuncAndAction\bin\Debug\A115_FuncAndAction.exe.config
+D:\Xamarin_Study\A115_FuncAndAction\A115_FuncAndAction\bin\Debug\A115_FuncAndAction.exe
+D:\Xamarin_Study\A115_FuncAndAction\A115_FuncAndAction\bin\Debug\A115_FuncAndAction.pdb
+D:\Xamarin_Study\A115_FuncAndAction\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A115_FuncAndAction\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A115_FuncAndAction\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.exe
+D:\Xamarin_Study\A115_FuncAndAction\A115_FuncAndAction\obj\Debug\A115_FuncAndAction.pdb
