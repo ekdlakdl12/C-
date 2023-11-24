@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A113_DelegateExample\A113_DelegateExample\bin\Debug\A113_DelegateExample.exe.config
+D:\Xamarin_Study\A113_DelegateExample\A113_DelegateExample\bin\Debug\A113_DelegateExample.exe
+D:\Xamarin_Study\A113_DelegateExample\A113_DelegateExample\bin\Debug\A113_DelegateExample.pdb
+D:\Xamarin_Study\A113_DelegateExample\A113_DelegateExample\obj\Debug\A113_DelegateExample.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A113_DelegateExample\A113_DelegateExample\obj\Debug\A113_DelegateExample.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A113_DelegateExample\A113_DelegateExample\obj\Debug\A113_DelegateExample.exe
+D:\Xamarin_Study\A113_DelegateExample\A113_DelegateExample\obj\Debug\A113_DelegateExample.pdb
