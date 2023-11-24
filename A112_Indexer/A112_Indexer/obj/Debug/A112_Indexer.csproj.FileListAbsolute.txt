@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A112_Indexer\A112_Indexer\bin\Debug\A112_Indexer.exe.config
+D:\Xamarin_Study\A112_Indexer\A112_Indexer\bin\Debug\A112_Indexer.exe
+D:\Xamarin_Study\A112_Indexer\A112_Indexer\bin\Debug\A112_Indexer.pdb
+D:\Xamarin_Study\A112_Indexer\A112_Indexer\obj\Debug\A112_Indexer.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A112_Indexer\A112_Indexer\obj\Debug\A112_Indexer.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A112_Indexer\A112_Indexer\obj\Debug\A112_Indexer.exe
+D:\Xamarin_Study\A112_Indexer\A112_Indexer\obj\Debug\A112_Indexer.pdb
