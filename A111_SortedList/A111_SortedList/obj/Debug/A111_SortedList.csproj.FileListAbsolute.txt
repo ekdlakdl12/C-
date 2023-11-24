@@ -1,0 +1,2 @@
+D:\Xamarin_Study\A111_SortedList\A111_SortedList\obj\Debug\A111_SortedList.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A111_SortedList\A111_SortedList\obj\Debug\A111_SortedList.csproj.CoreCompileInputs.cache
