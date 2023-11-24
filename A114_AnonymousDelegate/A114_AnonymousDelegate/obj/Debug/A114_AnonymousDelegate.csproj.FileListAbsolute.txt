@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A114_AnonymousDelegate\A114_AnonymousDelegate\bin\Debug\A114_AnonymousDelegate.exe.config
+D:\Xamarin_Study\A114_AnonymousDelegate\A114_AnonymousDelegate\bin\Debug\A114_AnonymousDelegate.exe
+D:\Xamarin_Study\A114_AnonymousDelegate\A114_AnonymousDelegate\bin\Debug\A114_AnonymousDelegate.pdb
+D:\Xamarin_Study\A114_AnonymousDelegate\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A114_AnonymousDelegate\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A114_AnonymousDelegate\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.exe
+D:\Xamarin_Study\A114_AnonymousDelegate\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.pdb
