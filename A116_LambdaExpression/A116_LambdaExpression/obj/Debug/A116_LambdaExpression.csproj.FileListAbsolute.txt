@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A116_LambdaExpression\A116_LambdaExpression\bin\Debug\A116_LambdaExpression.exe.config
+D:\Xamarin_Study\A116_LambdaExpression\A116_LambdaExpression\bin\Debug\A116_LambdaExpression.exe
+D:\Xamarin_Study\A116_LambdaExpression\A116_LambdaExpression\bin\Debug\A116_LambdaExpression.pdb
+D:\Xamarin_Study\A116_LambdaExpression\A116_LambdaExpression\obj\Debug\A116_LambdaExpression.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A116_LambdaExpression\A116_LambdaExpression\obj\Debug\A116_LambdaExpression.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A116_LambdaExpression\A116_LambdaExpression\obj\Debug\A116_LambdaExpression.exe
+D:\Xamarin_Study\A116_LambdaExpression\A116_LambdaExpression\obj\Debug\A116_LambdaExpression.pdb
