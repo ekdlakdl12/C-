@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A118_Predicate\A118_Predicate\bin\Debug\A118_Predicate.exe.config
+D:\Xamarin_Study\A118_Predicate\A118_Predicate\bin\Debug\A118_Predicate.exe
+D:\Xamarin_Study\A118_Predicate\A118_Predicate\bin\Debug\A118_Predicate.pdb
+D:\Xamarin_Study\A118_Predicate\A118_Predicate\obj\Debug\A118_Predicate.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A118_Predicate\A118_Predicate\obj\Debug\A118_Predicate.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A118_Predicate\A118_Predicate\obj\Debug\A118_Predicate.exe
+D:\Xamarin_Study\A118_Predicate\A118_Predicate\obj\Debug\A118_Predicate.pdb
