@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A119_ListAndLambda\A119_ListAndLambda\bin\Debug\A119_ListAndLambda.exe.config
+D:\Xamarin_Study\A119_ListAndLambda\A119_ListAndLambda\bin\Debug\A119_ListAndLambda.exe
+D:\Xamarin_Study\A119_ListAndLambda\A119_ListAndLambda\bin\Debug\A119_ListAndLambda.pdb
+D:\Xamarin_Study\A119_ListAndLambda\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A119_ListAndLambda\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A119_ListAndLambda\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.exe
+D:\Xamarin_Study\A119_ListAndLambda\A119_ListAndLambda\obj\Debug\A119_ListAndLambda.pdb
