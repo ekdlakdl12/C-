@@ -1,0 +1,11 @@
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\bin\Debug\A129_FormClass.exe.config
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\bin\Debug\A129_FormClass.exe
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\bin\Debug\A129_FormClass.pdb
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.Form1.resources
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.Form2.resources
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.Properties.Resources.resources
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.csproj.GenerateResource.cache
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.exe
+D:\Xamarin_Study\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.pdb
