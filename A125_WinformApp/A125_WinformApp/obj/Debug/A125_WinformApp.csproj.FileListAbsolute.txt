@@ -1,0 +1,10 @@
+D:\Xamarin_Study\A125_WinformApp\A125_WinformApp\bin\Debug\A125_WinformApp.exe.config
+D:\Xamarin_Study\A125_WinformApp\A125_WinformApp\bin\Debug\A125_WinformApp.exe
+D:\Xamarin_Study\A125_WinformApp\A125_WinformApp\bin\Debug\A125_WinformApp.pdb
+D:\Xamarin_Study\A125_WinformApp\A125_WinformApp\obj\Debug\A125_WinformApp.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A125_WinformApp\A125_WinformApp\obj\Debug\A125_WinformApp.Form1.resources
+D:\Xamarin_Study\A125_WinformApp\A125_WinformApp\obj\Debug\A125_WinformApp.Properties.Resources.resources
+D:\Xamarin_Study\A125_WinformApp\A125_WinformApp\obj\Debug\A125_WinformApp.csproj.GenerateResource.cache
+D:\Xamarin_Study\A125_WinformApp\A125_WinformApp\obj\Debug\A125_WinformApp.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A125_WinformApp\A125_WinformApp\obj\Debug\A125_WinformApp.exe
+D:\Xamarin_Study\A125_WinformApp\A125_WinformApp\obj\Debug\A125_WinformApp.pdb
