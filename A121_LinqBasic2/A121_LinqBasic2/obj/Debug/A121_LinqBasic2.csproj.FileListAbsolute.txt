@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A121_LinqBasic2\A121_LinqBasic2\bin\Debug\A121_LinqBasic2.exe.config
+D:\Xamarin_Study\A121_LinqBasic2\A121_LinqBasic2\bin\Debug\A121_LinqBasic2.exe
+D:\Xamarin_Study\A121_LinqBasic2\A121_LinqBasic2\bin\Debug\A121_LinqBasic2.pdb
+D:\Xamarin_Study\A121_LinqBasic2\A121_LinqBasic2\obj\Debug\A121_LinqBasic2.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A121_LinqBasic2\A121_LinqBasic2\obj\Debug\A121_LinqBasic2.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A121_LinqBasic2\A121_LinqBasic2\obj\Debug\A121_LinqBasic2.exe
+D:\Xamarin_Study\A121_LinqBasic2\A121_LinqBasic2\obj\Debug\A121_LinqBasic2.pdb
