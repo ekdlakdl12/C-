@@ -1,0 +1,10 @@
+D:\Xamarin_Study\A130_MessageBox\A130_MessageBox\bin\Debug\A130_MessageBox.exe.config
+D:\Xamarin_Study\A130_MessageBox\A130_MessageBox\bin\Debug\A130_MessageBox.exe
+D:\Xamarin_Study\A130_MessageBox\A130_MessageBox\bin\Debug\A130_MessageBox.pdb
+D:\Xamarin_Study\A130_MessageBox\A130_MessageBox\obj\Debug\A130_MessageBox.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A130_MessageBox\A130_MessageBox\obj\Debug\A130_MessageBox.Form1.resources
+D:\Xamarin_Study\A130_MessageBox\A130_MessageBox\obj\Debug\A130_MessageBox.Properties.Resources.resources
+D:\Xamarin_Study\A130_MessageBox\A130_MessageBox\obj\Debug\A130_MessageBox.csproj.GenerateResource.cache
+D:\Xamarin_Study\A130_MessageBox\A130_MessageBox\obj\Debug\A130_MessageBox.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A130_MessageBox\A130_MessageBox\obj\Debug\A130_MessageBox.exe
+D:\Xamarin_Study\A130_MessageBox\A130_MessageBox\obj\Debug\A130_MessageBox.pdb
