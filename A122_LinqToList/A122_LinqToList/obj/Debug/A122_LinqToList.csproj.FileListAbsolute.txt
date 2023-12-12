@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A122_LinqToList\A122_LinqToList\bin\Debug\A122_LinqToList.exe.config
+D:\Xamarin_Study\A122_LinqToList\A122_LinqToList\bin\Debug\A122_LinqToList.exe
+D:\Xamarin_Study\A122_LinqToList\A122_LinqToList\bin\Debug\A122_LinqToList.pdb
+D:\Xamarin_Study\A122_LinqToList\A122_LinqToList\obj\Debug\A122_LinqToList.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A122_LinqToList\A122_LinqToList\obj\Debug\A122_LinqToList.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A122_LinqToList\A122_LinqToList\obj\Debug\A122_LinqToList.exe
+D:\Xamarin_Study\A122_LinqToList\A122_LinqToList\obj\Debug\A122_LinqToList.pdb
