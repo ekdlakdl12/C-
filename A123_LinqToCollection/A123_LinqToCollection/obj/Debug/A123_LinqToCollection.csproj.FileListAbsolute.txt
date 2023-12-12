@@ -1,0 +1,7 @@
+D:\Xamarin_Study\A123_LinqToCollection\A123_LinqToCollection\bin\Debug\A123_LinqToCollection.exe.config
+D:\Xamarin_Study\A123_LinqToCollection\A123_LinqToCollection\bin\Debug\A123_LinqToCollection.exe
+D:\Xamarin_Study\A123_LinqToCollection\A123_LinqToCollection\bin\Debug\A123_LinqToCollection.pdb
+D:\Xamarin_Study\A123_LinqToCollection\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.csproj.AssemblyReference.cache
+D:\Xamarin_Study\A123_LinqToCollection\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\A123_LinqToCollection\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.exe
+D:\Xamarin_Study\A123_LinqToCollection\A123_LinqToCollection\obj\Debug\A123_LinqToCollection.pdb
